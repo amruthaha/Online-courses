@@ -7,6 +7,6 @@
 5)Hit index.php and cheers.<br><br>
 
 <h2><b> Screenshots</b> </h2>
-!(http://postimg.org/image/hy3l6r05n/)
-!(http://postimg.org/image/dorz1yutn/)
-!(http://postimg.org/image/l59m6qc23/)
+http://postimg.org/image/hy3l6r05n/  <br>
+http://postimg.org/image/dorz1yutn/  <br>
+http://postimg.org/image/l59m6qc23/
