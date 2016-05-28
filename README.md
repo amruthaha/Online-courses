@@ -7,6 +7,6 @@
 5)Hit index.php and cheers.
 
 <h2><b> Screenshots</b> </h2>
-![Alt text](images/catalog display.jpg?raw=true "Title")
-![Alt text](images/new course.jpg?raw=true "Title")
-![Alt text](images/home page.jpg?raw=true "Title")
+![Alt text](images/catalog display.jpg?raw=true "Catalog")
+![Alt text](images/new course.jpg?raw=true "New Course")
+![Alt text](images/home page.jpg?raw=true "Home Page")
