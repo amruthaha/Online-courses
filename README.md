@@ -1,2 +1,12 @@
 # Online-courses
-&lt;h2>&lt;b> How to make it work &lt;/b>&lt;/h2> 1)install php server 2) create database and add credential to db.php file 3) create tables in database from db.sql  4) write Gmail username and password in login.php and newcourse.php to make it work with gmail 5) hit index.php and cheers.  &lt;h2>&lt;b> Screenshots&lt;/b> &lt;/h2> ![Alt text](images/new course.png?raw=true "Title") ![Alt text](images/catalog display.png?raw=true "Title") ![Alt text](images/home page.png?raw=true "Title")
+<h2><b> How to make it work </b></h2>
+1)Install php server
+2)Create database and add credential to db.php file
+3)Create tables in database from db.sql 
+4)Write Gmail username and password in login.php and newcourse.php to make it work with gmail
+5)Hit index.php and cheers.
+
+<h2><b> Screenshots</b> </h2>
+![Alt text](images/catalog display.jpg?raw=true "Title")
+![Alt text](images/new course.jpg?raw=true "Title")
+![Alt text](images/home page.jpg?raw=true "Title")
